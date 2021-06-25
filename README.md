@@ -1,4 +1,4 @@
-Creating Product table When the input quantity / price is changed, corresponding price and total should be automatically updated.
+Creating Product table When the input quantity is changed, corresponding price and total should be automatically updated.
 
 This is done using react with functional component
 
